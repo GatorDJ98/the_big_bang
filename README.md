@@ -4,6 +4,7 @@ Team Members
 - David Odle
 - Nathan Brown
 - Natalie Daniel
+- Barry Cumbie - SCRUM Master
 
 # Notes for Sprint 1
 
@@ -25,7 +26,10 @@ Kanban - visual cueing system for the entire factory floor
 
 Misc.
 - At the end of each 2 weeks, have a potentially shippable product
-- Barry Cumbie - SCRUM Master. His role: to remove barriers
 - Building the framework, getting some stuff going
+- Threw some code in, just to get something up and running
+- Created this ReadME
+- Deployed repository to Render
+
 
 
