@@ -29,7 +29,7 @@ Misc.
 - Building the framework, getting some stuff going
 - Threw some code in, just to get something up and running
 - Created this ReadME
-- Deployed repository to Render
+- Deployed repository on Render
 
 
 
