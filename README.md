@@ -7,7 +7,6 @@ Team Members
 - Barry Cumbie - SCRUM Master
 
 # Notes for Sprint 1
---------------------------------------------------------------------
 Beginning - Sprint Planning
 - Daily scrum (stand up meeting)
 - Review at the end
