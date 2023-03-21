@@ -7,7 +7,7 @@ Team Members
 - Barry Cumbie - SCRUM Master
 
 # Notes for Sprint 1
-
+--------------------------------------------------------------------
 Beginning - Sprint Planning
 - Daily scrum (stand up meeting)
 - Review at the end
@@ -17,13 +17,13 @@ Beginning - Sprint Planning
   - Min. acceptance criteria
   - Test
 - Put the cards in our issues
-
+--------------------------------------------------------------------
 Sprint 1 Backlog - list of things we want for our product
 Kanban - visual cueing system for the entire factory floor
 - Tells who needs to do what when
 - Github dev environment does a lot of this
 - Backlogs are our issue cards
-
+--------------------------------------------------------------------
 Misc.
 - At the end of each 2 weeks, have a potentially shippable product
 - Building the framework, getting some stuff going
