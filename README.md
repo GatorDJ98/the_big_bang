@@ -1,10 +1,10 @@
 # Big Papa
 
 Team Members
+- Barry Cumbie - SCRUM Master
 - David Odle
 - Nathan Brown
 - Natalie Daniel
-- Barry Cumbie - SCRUM Master
 
 # Notes for Sprint 1
 Beginning - Sprint Planning
