@@ -1,4 +1,4 @@
-# Big Papa
+# Welcome to the Home of WhereAt!
 
 Team Members
 - Barry Cumbie - SCRUM Master
