@@ -5,5 +5,9 @@
     "express": "^4.18.2",
     "mongodb": "^5.1.0",
     "nodemon": "^2.0.21"
+  },
+  "engines": {
+    "node": ">18",
+    "npm": ">8"
   }
 }
