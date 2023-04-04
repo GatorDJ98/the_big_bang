@@ -1,15 +1,31 @@
-# Welcome to the home of WhereAt!
+# Welcome to WhereAt!
 
-## Team Members
-- Barry Cumbie - SCRUM Master
-- David Odle
-- Nathan Brown
-- Natalie Daniel
+## User Story / Short Rundown
+**As A** user who is forgetful <br/><br/>
+**I want** to remember where I left something <br/><br/>
+**So That** I don't forget where it's at <br/><br/>
 
-## User Story
-**As A** user who is forgetful <br/>
-**I want** to remember where I left something <br/>
-**So That** I don't forget where it's at <br/>
+If you are anyting like us, then you can be extremely forgetful.
+
+Sometimes you are in a rush to find something or you are just looking for an item you have misplaced.
+
+This is where WhereAt comes into play.
+
+Using our application, you will be able to keep track of any item that you store within our database.
+
+## Tutorial
+Simply start by launching the app.<br/>
+**picture here**<br/><br/>
+
+Then, enter the item that you wish to store along with it's location (pictures are optional).<br/>
+**picture here**<br/><br/>
+
+Afterwards, at anytime, you may come back to application and enter what you wish to find.<br/>
+**picture here**<br/><br/>
+
+The app will then tell you exactly where you placed it!<br/>
+**picture here**
+
 
 
 
