@@ -24,9 +24,10 @@ Afterwards, at anytime, you may come back to application and enter what you wish
 **insert picture here**<br/><br/>
 
 The app will then tell you exactly where you placed it!<br/>
-**insert picture here**
+**insert picture here**<br/><br/>
 
 
+**NEED TO ADD PICTURES AND UPDATE AFTER SPRINT 2**
 
 
 
