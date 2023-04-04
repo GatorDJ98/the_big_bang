@@ -7,12 +7,9 @@
 - Natalie Daniel
 
 ## User Story
-
-**As A** user who is forgetful
-
-**I want** to remember where I left something
-
-**So That** I don't forget where it's at
+**As A** user who is forgetful <br/>
+**I want** to remember where I left something <br/>
+**So That** I don't forget where it's at <br/>
 
 
 
