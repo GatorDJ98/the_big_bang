@@ -2,7 +2,7 @@
 
 ## User Story / Short Rundown
 **As A** user who is forgetful <br/><br/>
-**I want** to remember where I left something <br/><br/>
+**I Want** to remember where I left something <br/><br/>
 **So That** I don't forget where it's at <br/><br/>
 
 If you are anyting like us, then you can be extremely forgetful.
@@ -20,7 +20,7 @@ Simply start by launching the app.<br/>
 Then, enter the item that you wish to store along with it's location (pictures are optional).<br/>
 **insert picture here**<br/><br/>
 
-Afterwards, at anytime, you may come back to application and enter what you wish to find.<br/>
+Afterwards, at anytime, you may come back to the application and enter what you wish to find.<br/>
 **insert picture here**<br/><br/>
 
 The app will then tell you exactly where you placed it!<br/>
