@@ -13,7 +13,7 @@ This is where WhereAt comes into play.
 
 Using our application, you will be able to keep track of any item that you store within our database.
 
-## Tutorial
+## Tutorial (In Progress)
 Simply start by launching the app.<br/>
 **insert picture here**<br/><br/>
 
@@ -26,8 +26,6 @@ Afterwards, at anytime, you may come back to application and enter what you wish
 The app will then tell you exactly where you placed it!<br/>
 **insert picture here**<br/><br/>
 
-
-**NEED TO ADD PICTURES AND UPDATE AFTER SPRINT 2**
 
 
 
