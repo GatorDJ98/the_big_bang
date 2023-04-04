@@ -15,16 +15,16 @@ Using our application, you will be able to keep track of any item that you store
 
 ## Tutorial
 Simply start by launching the app.<br/>
-**picture here**<br/><br/>
+**insert picture here**<br/><br/>
 
 Then, enter the item that you wish to store along with it's location (pictures are optional).<br/>
-**picture here**<br/><br/>
+**insert picture here**<br/><br/>
 
 Afterwards, at anytime, you may come back to application and enter what you wish to find.<br/>
-**picture here**<br/><br/>
+**insert picture here**<br/><br/>
 
 The app will then tell you exactly where you placed it!<br/>
-**picture here**
+**insert picture here**
 
 
 
