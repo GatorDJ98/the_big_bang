@@ -18,19 +18,20 @@
 
 :arrow_forward:Using our application, you will be able to keep track of any item that you store within our database.
 
-## Tutorial (In Progress)
-Simply start by launching the app with this link :point_right:<a href="https://the-big-bang.onrender.com/" target="_blank">Where At</a>.<br/>
+# ⚠️ Tutorial (In Progress) ⚠️
 
+## Step :one: :Simply start by launching the app with this link :point_right:<a href="https://the-big-bang.onrender.com/" target="_blank">Where At</a>.<br/>
 **It should look something like this**
+
 ![Capture](https://user-images.githubusercontent.com/97544775/231808094-3b7fde2b-cdfb-4436-8d38-bc1f9574a517.PNG)<br/><br/>
 
-Then, enter the item that you wish to store along with it's location (pictures are optional).<br/>
+## Step :two: :Enter the item that you wish to store along with its location (pictures to be added eventually).<br/><br/>
+![Capture2](https://user-images.githubusercontent.com/97544775/231809243-f7dbaf19-5308-4eab-88d3-988574b2a087.PNG)<br/><br/>
+
+## Step :three: :At anytime, you may come back to the application and enter what you wish to find.<br/>
 **insert picture here**<br/><br/>
 
-Afterwards, at anytime, you may come back to the application and enter what you wish to find.<br/>
-**insert picture here**<br/><br/>
-
-The app will then tell you exactly where you placed it!<br/>
+## Step :four: : The app will then tell you exactly where you placed it!<br/>
 **insert picture here**<br/><br/>
 
 
