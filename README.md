@@ -1,17 +1,22 @@
 # Welcome to WhereAt!
+![image](https://user-images.githubusercontent.com/97544775/231794637-c48e7dc1-c1a3-44c7-a6b9-10b2add8bb0a.png)
+# Quick Links
+- <a href="https://github.com/GatorDJ98/the_big_bang/wiki" target="_blank">Wiki Pages</a><br/>
+- <a href="https://github.com/users/GatorDJ98/projects/1/views/1" target="_blank">Project Board</a><br/>
+- <a href="https://github.com/GatorDJ98/the_big_bang/issues" target="_blank">Issues</a><br/>
 
-## User Story / Short Rundown
-**As A** user who is forgetful <br/><br/>
-**I Want** to remember where I left something <br/><br/>
-**So That** I don't forget where it's at <br/><br/>
+# User Story / Short Rundown
+- **As A** user who is forgetful :dizzy_face: <br/><br/>
+- **I Want** to remember where I left something :bulb: <br/><br/>
+- **So That** I don't forget where it's at :sunglasses: <br/>
+---------------------------------------------------------------
+:arrow_forward:If you are anything like us, then you can be extremely forgetful.
 
-If you are anyting like us, then you can be extremely forgetful.
+:arrow_forward:Sometimes you are in a rush to find something or you are just looking for an item you have misplaced.
 
-Sometimes you are in a rush to find something or you are just looking for an item you have misplaced.
+:arrow_forward:This is where WhereAt comes into play.
 
-This is where WhereAt comes into play.
-
-Using our application, you will be able to keep track of any item that you store within our database.
+:arrow_forward:Using our application, you will be able to keep track of any item that you store within our database.
 
 ## Tutorial (In Progress)
 Simply start by launching the app.<br/>
