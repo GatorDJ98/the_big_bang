@@ -23,16 +23,16 @@
 ## Step :one: :Simply start by launching the app with this link :point_right:<a href="https://the-big-bang.onrender.com/" target="_blank">Where At</a>.<br/>
 **It should look something like this**
 
-![Capture](https://user-images.githubusercontent.com/97544775/231808094-3b7fde2b-cdfb-4436-8d38-bc1f9574a517.PNG)<br/><br/>
+![Capture](https://user-images.githubusercontent.com/97544775/231811637-a3ad17bb-d1fa-49c2-bdfe-3ec731e26074.PNG)<br/><br/>
 
 ## Step :two: :Enter the item that you wish to store along with its location (pictures to be added eventually).<br/><br/>
 ![Capture2](https://user-images.githubusercontent.com/97544775/231809243-f7dbaf19-5308-4eab-88d3-988574b2a087.PNG)<br/><br/>
 
-## Step :three: :At anytime, you may come back to the application and enter what you wish to find.<br/>
-**insert picture here**<br/><br/>
+## Step :three: :Submit the item with button labled `Add Item and Location`.<br/>
+![Capture3](https://user-images.githubusercontent.com/97544775/231811254-82535ca5-1fa6-45e7-bbb3-7dbfce496d10.PNG)<br/><br/>
 
 ## Step :four: : The app will then tell you exactly where you placed it!<br/>
-**insert picture here**<br/><br/>
+![image](https://user-images.githubusercontent.com/97544775/231812016-b87eb426-fb83-4da1-a12e-560f545d5545.png)<br/><br/>
 
 
 
