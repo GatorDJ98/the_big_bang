@@ -34,6 +34,9 @@
 ## Step :four: : The app will then tell you exactly where you placed it!<br/>
 ![image](https://user-images.githubusercontent.com/97544775/231812016-b87eb426-fb83-4da1-a12e-560f545d5545.png)<br/><br/>
 
+## Delete: To delete an item, simply click the `delete` button located next to the item.
+![Capture5](https://user-images.githubusercontent.com/97544775/231813273-939003f9-84d0-4f03-8ff5-ef2f31d1dd3f.PNG)
 
+## Updating an item: To update an item, click the items `update` button under `Update Items and Location`
 
 
