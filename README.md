@@ -1,9 +1,13 @@
 # Welcome to WhereAt!
+# Quick Links
+- <a href="https://github.com/GatorDJ98/the_big_bang/wiki" target="_blank">Wiki Pages</a><br/>
+- <a href="https://github.com/users/GatorDJ98/projects/1/views/1" target="_blank">Project Board</a><br/>
+- <a href="https://github.com/GatorDJ98/the_big_bang/issues" target="_blank">Issues</a><br/>
 
 ## User Story / Short Rundown
-**As A** user who is forgetful <br/><br/>
-**I Want** to remember where I left something <br/><br/>
-**So That** I don't forget where it's at <br/><br/>
+**As A** user who is forgetful :dizzy_face: <br/><br/>
+**I Want** to remember where I left something :bulb: <br/><br/>
+**So That** I don't forget where it's at :sunglasses: <br/><br/>
 
 If you are anyting like us, then you can be extremely forgetful.
 
