@@ -1,11 +1,41 @@
+<link href= "/public/assets/styles.css" rel="stylesheet" type="text/css" />
+
+<h1>Welcome to WhereAt!</h1>
+
 <p>This is where you will be able to perform CRUD operations and find out the Location of Items</p>
 <p>Mongo Connection Established</p>
 
-<form>
-    <label for="create">Insert Item into DB</label><br>
-    <input type="text" id="insert" name="insert"><br>
-    <label for="read">Read from DB</label><br>
-    <input type="submit" id="lname" name="lname">
-  </form>
+<h3> Current Items and Location </h3> 
+<% for (var i=0; i< locationsData.length; i++ ) { %>
+ <form method="post" action="/deleteItem/<%= locationsData[i]._id %>" style="display: inline-block">  
+   <%= locationsData[i].Item %> (<%= locationsData[i].Location %>) 
+   <input type="submit" value="delete"> 
+ </form>
+ <br/>
+<% } %> 
+
+<h3> Update Items and Location</h3> 
+<% for (var i=0; i< locationsData.length; i++ ) { %>
+ <form method="post" action="/updateItem/<%= locationsData[i]._id %>" style="display: inline-block">  
+   <%= locationsData[i].Item %> (<%= locationsData[i].Location %>) 
+   <input type="submit" value="update"> 
+ </form>
+ <br/>
+<% } %> 
+
+<h2>Add New Item and its location to Database</h2>
+
+  <form method="post" action="/addItem">
+    <label for="Item">Item</label>
+    <br>
+      <input name="Item" value="Add New Item">
+    <br>
+    <label for="Location">Location</label>
+    <br>
+      <input name="Location" value="Provide Location">
+    <br>
+    <br>
+    <input type="submit" value="Add Item and Location">
+</form>
 
   
