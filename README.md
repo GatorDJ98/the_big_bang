@@ -39,7 +39,7 @@
 ![6](https://user-images.githubusercontent.com/97544775/234875649-c546533f-7e87-471d-9014-5b9501e4e7a8.PNG)
 
 
-## Update: To update an item, click the items `update` button under `Update Items and Location`
+## Update: To update an item, click the item's `update` button under `Update Items and Location`
 ![7](https://user-images.githubusercontent.com/97544775/234875685-f70e74ce-057a-4df5-9621-7d2967636f07.PNG)
 
 -Note on Update: We intend to fully implement a way to type in a new location for your item.
