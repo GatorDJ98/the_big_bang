@@ -1,31 +1,50 @@
-<link href= "/public/assets/styles.css" rel="stylesheet" type="text/css" />
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css'>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css'>
+  <link rel="stylesheet" href="/public/assets/styles.css">
+  <link rel="styles" href="https://fonts.googleapis.com/css?family=Audiowide">
 
+</head>
 
-<h1>Welcome to WhereAt!</h1>
+<body>
 
-<p>This is where you will be able to perform CRUD operations and find out the Location of Items</p>
-<p>Mongo Connection Established</p>
+ <div class="jumbotron text-center">
+  <h1>WhereAt</h1>
+  <p>Keep up with your Belongings!</p> 
+</div>
 
+<div class = "readDiv">
 <h3> Current Items and Location </h3> 
 <% for (var i=0; i< locationsData.length; i++ ) { %>
  <form method="post" action="/deleteItem/<%= locationsData[i]._id %>" style="display: inline-block">  
    <%= locationsData[i].Item %> (<%= locationsData[i].Location %>) 
-   <input type="submit" value="delete"> 
+   <input type="submit" value="Delete"> 
  </form>
  <br/>
 <% } %> 
+</div>
 
+<hr>
+
+<div class = "updateDiv">
 <h3> Update Items and Location</h3> 
 <% for (var i=0; i< locationsData.length; i++ ) { %>
  <form method="post" action="/updateItem/<%= locationsData[i]._id %>" style="display: inline-block">  
    <%= locationsData[i].Item %> (<%= locationsData[i].Location %>) 
-   <input type="submit" value="update"> 
+   <input type="submit" value="Update"> 
  </form>
  <br/>
 <% } %> 
+</div>
 
+<hr>
+
+<div class = "createDiv">
 <h2>Add New Item and its location to Database</h2>
 
   <form method="post" action="/addItem">
@@ -39,6 +58,40 @@
     <br>
     <br>
     <input type="submit" value="Add Item and Location">
+  </div>
 </form>
 
-  
+<hr>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Play&display=swap" rel="stylesheet"> 
+
+</head>
+<body>
+<footer>
+<div class="footer">
+<div class="row">
+<a href="#"><i class="fa fa-facebook"></i></a>
+<a href="#"><i class="fa fa-instagram"></i></a>
+</div>
+
+<div class="row">
+<ul>
+<li><a href="https://github.com/GatorDJ98/the_big_bang/wiki/About-Us">About Us</a></li>
+<li><a href="https://github.com/GatorDJ98/the_big_bang">App Repo</a></li>
+
+</ul>
+</div>
+
+
+</footer>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
