@@ -1,5 +1,5 @@
 # Welcome to WhereAt!
-![image](https://user-images.githubusercontent.com/97544775/231794637-c48e7dc1-c1a3-44c7-a6b9-10b2add8bb0a.png)
+![Capture](https://user-images.githubusercontent.com/97544775/234873836-b66f7d00-b743-47bc-86b7-7e9c7cb94ae3.PNG)
 # Quick Links
 - <a href="https://github.com/GatorDJ98/the_big_bang/wiki" target="_blank">Wiki Pages</a><br/>
 - <a href="https://github.com/users/GatorDJ98/projects/1/views/1" target="_blank">Project Board</a><br/>
