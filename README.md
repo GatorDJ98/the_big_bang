@@ -9,7 +9,9 @@
 - **As A** user who is forgetful :dizzy_face: <br/><br/>
 - **I Want** to remember where I left something :bulb: <br/><br/>
 - **So That** I don't forget where it's at :sunglasses: <br/>
+
 ---------------------------------------------------------------
+
 :arrow_forward:If you are anything like us, then you can be extremely forgetful.
 
 :arrow_forward:Sometimes you are in a rush to find something or you are just looking for an item you have misplaced.
@@ -18,7 +20,8 @@
 
 :arrow_forward:Using our application, you will be able to keep track of any item that you store within our database.
 
-
+---------------------------------------------------------------
+# Tutorial
 ## Step :one: :Simply start by launching the app with this link :point_right:<a href="https://the-big-bang.onrender.com/" target="_blank">Where At</a>.<br/>
 **It should look something like this**
 
