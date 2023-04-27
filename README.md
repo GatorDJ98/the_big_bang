@@ -23,23 +23,24 @@
 ## Step :one: :Simply start by launching the app with this link :point_right:<a href="https://the-big-bang.onrender.com/" target="_blank">Where At</a>.<br/>
 **It should look something like this**
 
-![Capture](https://user-images.githubusercontent.com/97544775/231811637-a3ad17bb-d1fa-49c2-bdfe-3ec731e26074.PNG)<br/><br/>
+![Capture2](https://user-images.githubusercontent.com/97544775/234875458-668a4b6d-9c96-43af-9c20-627f6814ecb1.PNG)<br/><br/>
 
 ## Step :two: :Enter the item that you wish to store along with its location (pictures to be added eventually).<br/><br/>
-![Capture2](https://user-images.githubusercontent.com/97544775/231809243-f7dbaf19-5308-4eab-88d3-988574b2a087.PNG)<br/><br/>
+![3](https://user-images.githubusercontent.com/97544775/234875498-903b7f5c-777d-44c5-b5aa-db7979681fd4.PNG)<br/><br/>
 
 ## Step :three: :Submit the item with button labled `Add Item and Location`.<br/>
-![Capture3](https://user-images.githubusercontent.com/97544775/231811254-82535ca5-1fa6-45e7-bbb3-7dbfce496d10.PNG)<br/><br/>
+![4](https://user-images.githubusercontent.com/97544775/234875535-b5ca4ece-1a25-4a73-93e1-f5eb9297d1ab.PNG)<br/><br/>
 
 ## Step :four: : The app will then tell you exactly where you placed it!<br/>
-![image](https://user-images.githubusercontent.com/97544775/231812016-b87eb426-fb83-4da1-a12e-560f545d5545.png)<br/><br/>
+![5](https://user-images.githubusercontent.com/97544775/234875598-ce52ab61-a694-44f0-8c44-38ad5a1b3d3a.PNG)<br/><br/>
 
 
 ## Delete: To delete an item, simply click the `delete` button located next to the item.
-![Capture5](https://user-images.githubusercontent.com/97544775/231813273-939003f9-84d0-4f03-8ff5-ef2f31d1dd3f.PNG)
+![6](https://user-images.githubusercontent.com/97544775/234875649-c546533f-7e87-471d-9014-5b9501e4e7a8.PNG)
 
 
 ## Update: To update an item, click the items `update` button under `Update Items and Location`
-![Capture6](https://user-images.githubusercontent.com/97544775/231813814-240f54b1-b98d-4482-a11d-cac4fa174223.PNG)
+![7](https://user-images.githubusercontent.com/97544775/234875685-f70e74ce-057a-4df5-9621-7d2967636f07.PNG)
 
+-Note on Update: We intend to fully implement a way to type in a new location for your item.
 
