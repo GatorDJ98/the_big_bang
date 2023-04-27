@@ -18,7 +18,6 @@
 
 :arrow_forward:Using our application, you will be able to keep track of any item that you store within our database.
 
-# ⚠️ Tutorial (In Progress) ⚠️
 
 ## Step :one: :Simply start by launching the app with this link :point_right:<a href="https://the-big-bang.onrender.com/" target="_blank">Where At</a>.<br/>
 **It should look something like this**
