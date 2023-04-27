@@ -44,3 +44,5 @@
 
 -Note on Update: We intend to fully implement a way to type in a new location for your item.
 
+# For Mobile Users
+
