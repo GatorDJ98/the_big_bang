@@ -124,11 +124,6 @@ app.post('/updateItem/:id', async (req, res) => {
 
 })
 
-
-
-
-
-
 console.log('in the node console');
 
 http.listen(port, () => {
