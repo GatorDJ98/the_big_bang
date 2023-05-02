@@ -37,6 +37,10 @@ div {
     border-color: black;
 }
 
+.addImage {
+    text-align: center;
+}
+
 .footer {
     background-color: cadetblue;
     }

@@ -45,7 +45,7 @@
 <hr>
 
 <div class = "createDiv">
-<h2>Add New Item and its location to Database</h2>
+<h2>Add New Item and Location</h2>
 
   <form method="post" action="/addItem">
     <label for="Item">Item</label>
@@ -62,6 +62,19 @@
 </form>
 
 <hr>
+
+<div class = addImage>
+  <h2>Upload Image</h2>
+<form method="POST" action="/upload" enctype="multipart/form-data">
+  <input type="file" name="image">
+  <input type="submit">
+</form>
+</div>
+
+<hr>
+
+
+
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">

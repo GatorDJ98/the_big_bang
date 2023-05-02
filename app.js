@@ -1,15 +1,33 @@
 require("dotenv").config()
 const express = require('express')
 const app = express()
+const http = require("http").createServer(app)
 const bodyParser = require('body-parser')
 const { urlencoded } = require('body-parser')
 const { ObjectId } = require('mongodb')
 const port = process.env.port || 3000;
 const { MongoClient, ServerApiVersion } = require('mongodb')
 const client = new MongoClient(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+
+const multer = require('multer')
+const path = require('path')
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+  cb(null, 'Images') 
+  },
+    filename: (req, file, cb) => {
+      console.log(file)
+      cb(null, Date.now() + path.extname(file.originalname))
+    }
+  
+})
+
+const upload = multer({storage: storage})
+
 app.use(bodyParser.urlencoded({ extended: true }))
 app.set('view engine', 'ejs')
 app.use('/public', express.static('public')); 
+
 
 async function cxnDB(){
 
@@ -27,6 +45,14 @@ async function cxnDB(){
     client.close; 
   }
 }
+
+app.get("/upload", (req, res) => {
+  res.render("upload");
+})
+
+app.post("/upload", upload.single('image'), (req, res) => {
+  res.send("Image Uploaded to Multer Images");
+})
 
 app.get('/', async (req, res) => {
 
@@ -99,8 +125,12 @@ app.post('/updateItem/:id', async (req, res) => {
 })
 
 
+
+
+
+
 console.log('in the node console');
 
-app.listen(port, () => {
+http.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
