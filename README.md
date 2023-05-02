@@ -49,3 +49,6 @@
 # For Mobile Users
 - Provide another tutorial for mobile users
 - Possibly put it in another branch for easier access (or provide direct link to this part).
+
+![image](https://user-images.githubusercontent.com/97256756/235767651-6388fe1d-8678-4102-b35c-c7cbc4deb8fd.png)
+
