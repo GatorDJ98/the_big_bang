@@ -46,9 +46,7 @@
 
 - Note on Update: We intend to fully implement a way to type in a new location for your item.
 
-# For Mobile Users
-- Provide another tutorial for mobile users
-- Possibly put it in another branch for easier access (or provide direct link to this part).
+# Mobile
 
 ![image](https://user-images.githubusercontent.com/97256756/235767651-6388fe1d-8678-4102-b35c-c7cbc4deb8fd.png)
 
